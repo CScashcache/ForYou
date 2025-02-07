@@ -7,13 +7,13 @@ document.addEventListener("DOMContentLoaded", function () {
         content.innerHTML = `
             <div class="valentines_card" id="vdayCard">
                 <div class="front_card">
-                    <img src="vday.png" class="front_img">
+                    <img src="Pictures/vday.png" class="front_img">
                     <div class="front_text">
                         <h3>A letter for you...</h3>
                     </div>    
                 </div>
                 <div class="inside_card">
-                    <img src="inside.png" class="inside_img">
+                    <img src="Pictures/inside.png" class="inside_img">
                     <div class="inside_text">
                         <h4>Hi ::)) I'll straight to the point.
 						Gusto kita Precious Dale.
@@ -130,7 +130,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Add event listener to the "continue" button
         document.getElementById("continueButton").addEventListener("click", function () {
             content.innerHTML = `
-                <img src="what.gif" alt="asking tonton">
+                <img src="Pictures/what.gif" alt="asking tonton">
                 <div class="question">
                     <p style="font-size: 24px;">Can I be your Valentine?</p>
                     <button id="yesBtn">Yes</button>
@@ -157,9 +157,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 document.getElementById("surpriseBtn").addEventListener("click", function () {
                     content.innerHTML = `
                         <div style="text-align: center; margin-top: 20px;">
-                            <img src="itinerary.png" alt="Itinerary Image" style="width: 70%; max-width: 500px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
+                            <img src="Pictures/itinerary.png" alt="Itinerary Image" style="width: 70%; max-width: 500px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
                             <br>
-                            <a id="downloadBtn" href="Gif and PNG/itinerary.png" download style="display: inline-block; padding: 12px 25px; background: #FF6863; color: white; border-radius: 5px; text-decoration: none; font-size: 18px; font-weight: bold; transition: 0.3s;">Download Itinerary</a>
+                            <a id="downloadBtn" href="Pictures/itinerary.png" download style="display: inline-block; padding: 12px 25px; background: #FF6863; color: white; border-radius: 5px; text-decoration: none; font-size: 18px; font-weight: bold; transition: 0.3s;">Download Itinerary</a>
                         </div>
                     `;
                 });
