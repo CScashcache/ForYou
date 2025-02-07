@@ -15,8 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="inside_card">
                     <img src="Pictures/inside.png" class="inside_img">
                     <div class="inside_text">
-                        <h4>Hi ::)) I'll straight to the point.
-						Gusto kita Precious Dale.
+                        <h4>Hi ::)) Gusto ko sabihin na you really have a beautiful smile.
 						Tama talaga yung sinasabi nila na yung ngiti mo ay nakakabighani at gusto ko siya makita palagi. 
 						</h4>
                         <h3>I am not available on February 14 so...</h3>
