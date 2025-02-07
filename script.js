@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 document.getElementById("surpriseBtn").addEventListener("click", function () {
                     content.innerHTML = `
                         <div style="text-align: center; margin-top: 20px;">
-                            <img src="Pictures/Itinerary.png" alt="Itinerary Image">
+                            <img src="Pictures/vday.png" class="front_img">
                             <br>
                             <a id="downloadBtn" href="Pictures/itinerary.png" download style="display: inline-block; padding: 12px 25px; background: #FF6863; color: white; border-radius: 5px; text-decoration: none; font-size: 18px; font-weight: bold; transition: 0.3s;">Download Itinerary</a>
                         </div>
