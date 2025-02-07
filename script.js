@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         <h4>Hi ::)) Gusto ko sabihin na you really have a beautiful smile.
 						Tama talaga yung sinasabi nila na yung ngiti mo ay nakakabighani at gusto ko siya makita palagi. 
 						</h4>
-                        <h3>I am not available on February 14 so...</h3>
+                        <h3>I am not available on February 14 but...</h3>
                     </div>
                 </div>
             </div>
