@@ -17,9 +17,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     <div class="inside_text">
                         <h4>Hi ::)) I'll straight to the point.
 						Gusto kita Precious Dale.
-						Tama talaga yung sinasabi nila na yung ngiti mo ay nakakabighani at ayaw kong mawala ang ngiti mo. 
+						Tama talaga yung sinasabi nila na yung ngiti mo ay nakakabighani at gusto ko siya makita palagi. 
 						</h4>
-                        <h3>I can't wait for February 14 so...</h3>
+                        <h3>I am not available on February 14 so...</h3>
                     </div>
                 </div>
             </div>
